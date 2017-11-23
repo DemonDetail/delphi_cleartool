@@ -1,0 +1,11 @@
+cd /d Z:\blois_hmc_code\Software\Environnement\exe
+make gen_scheduler  &&^
+make gen_t55        &&^
+make gen_fault      &&^
+make gen_rbm        &&^
+make gen_dti        &&^
+make gen_t55        &&^
+make gen_calib      &&^
+make build_all_m   
+make build_a2l
+@pause

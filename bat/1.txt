@@ -1,0 +1,27 @@
+version "X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\src\P_L_Cc_Msg_Ems2_Calc.c@@\main\a0111482_2.0\1"
+  created 24-Aug-17.15:20:20 by Wang (rzvdjx.Cnshg_ccusers@DLDPLXDV1)
+  "A0111482 2.0"
+  Element Protection:
+    User : ASIA\fzslqx : r--
+    Group: ASIA\Cnshg_ccusers : r--
+    Other:          : r--
+  element type: text_file
+  predecessor version: \main\a0111482_2.0\0
+  Labels:
+    1MYUCAPP_B200D21
+    1MYUCAPP_B200D11
+    TASK_CHENJ_GV218105
+    TASK_GV218105
+    TASK_GV217982
+    A0111482_2.0
+  Attributes:
+    TWK_model = "NO_MODEL"
+    SB7033_UT_ANALYSIS = "FAIL-C"
+    SB7033_UT_ANALYSIS_COMMENT = "UT_GV00221108"
+  Hyperlinks:
+    TCG_PTU_Link@600459@\blois_code_p_l "Code source" -> X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\tests@@\main\1628\P_L_Cc_Msg_Ems2_Calc.ptu\main\tci_main\3 "Test File"
+    tcgTestResultRTRT@600460@\blois_code_p_l ->  "FAIL"
+    RTRT_Link@600461@\blois_code_p_l "Code source" -> X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\tests@@\main\1629\P_L_Cc_Msg_Ems2_Calc_ATR.doc\main\tci_main\3 "Test File"
+    tcgTestResultPS@600462@\blois_code_p_l ->  "FAIL"
+    POLY_Link@600463@\blois_code_p_l "Code source" -> X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\tests@@\main\1630\P_L_Cc_Msg_Ems2_Calc_PSTR.doc\main\tci_main\4 "Test File"
+    Merge@565067@\blois_code_p_l <- X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\src\P_L_Cc_Msg_Ems2_Calc.c@@\main\a0111482_1.0\task_gv217982\1

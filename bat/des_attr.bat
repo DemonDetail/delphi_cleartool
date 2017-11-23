@@ -1,0 +1,1 @@
+cleartool describe -aattr  CtcSpecLabel      -short 

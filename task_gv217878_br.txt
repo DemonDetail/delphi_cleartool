@@ -1,0 +1,14 @@
+X:\TASK_ZHAOY2_Compare\blois_code_p_l\p_l\p_l_ecu\NVM\src\P_L_Nvm_Data.c@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_code_p_l\p_l\p_l_ecu\NVM\src\P_L_Nvm_Data.h@@\main\1xgennap_a\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_code_p_l\p_l\p_l_ecu\NVM\src\P_L_Nvm_Data.t55@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_soft_vob\Software\Appli\acm\src@@\main\1fgenapp_a\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_soft_vob\Software\Appli\acm\src\acm.c@@\main\1fjcbapp\1fjcbapp_b150\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_soft_vob\Software\Appli\acm\src\acm.h@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\blois_soft_vob\Software\P_L\p_l_nvm\src\p_l_nvm_sub.t55@@\main\1xgennap_a\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_vob\6_coding\config_dcm624.py@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_vob\6_coding\src\appli\acm\src\acm.t55@@\main\1fjcbapp\1fjcbapp_b150\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_dcm624_code\Software\_Software\src\hwi.t55@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_dcm624_code\Software\Appli\_Appli\src\application_stub.c@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\2
+X:\TASK_ZHAOY2_Compare\gill_dcm624_code\Software\Appli\_Appli\src\application_stub.t55@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_dcm624_code\Software\P_L\_P_l\src\p_l.h@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1
+X:\TASK_ZHAOY2_Compare\gill_dcm624_code\Software\S_S\s_s_scheduler\src\tasklist.asc@@\main\sb7025_ctc\BR_1XYUNAPP_A_CTC\task_gv217878\1

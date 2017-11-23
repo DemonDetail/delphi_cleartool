@@ -1,0 +1,50 @@
+
+C:\D\Tools\lscheckout>cd /d X:\1MYUCAPP_B200D21 
+
+X:\1MYUCAPP_B200D21>cleartool lscheckout -avobs -cview 
+02-Nov.10:36   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\src\P_L_Cc_Msg_Tx_Supervisor.c" from \main\a0111592_4.0\0 (reserved) (A0111592_4.0)
+02-Nov.10:48   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_code_p_l\p_l\p_l_com\MSG\src\P_L_Cc_Ecu_Lost_Diag.c" from \main\a0116142_1.1\0 (reserved) (A0116142_1.1)
+02-Nov.10:15   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\S_S\s_s_fault_manager\src\F_M_Fault.h" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:14   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\S_S\s_s_fault_manager\src\F_M_Fault.c" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.11:03   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\S_S\s_s_scheduler\src\s_s_scheduler.c" from \main\sb7033\1myucapp_a\20 (reserved)
+  "comment"
+02-Nov.11:02   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\S_S\s_s_scheduler\src\s_s_scheduler.h" from \main\sb7033\1myucapp_a\17 (reserved)
+  "comment"
+02-Nov.10:09   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\Environnement\exe\Header_A2L.txt" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:09   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\Environnement\exe\makefile" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:22   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\Appli\dti\src\dti.h" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:21   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\Appli\dti\src\dti.c" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:10   bjq5dl     checkout directory version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin" from \main\sb7033\1myucapp_b\0 (reserved)
+  "Added file element "1MHMCAPP_A730D41.a2l".
+   Added file element "1MHMCAPP_A730D41.a2l.log".
+   Added file element "1MHMCAPP_A730D41.elf".
+   Added file element "1MHMCAPP_A730D41.map".
+   Added file element "1MHMCAPP_A730D41.ulp".
+   Added file element "1MHMCAPP_A730D41_Integ_Check.txt".
+   Added file element "1MHMCAPP_A730D41_Integ_Check_whatsnew.txt".
+   Added file element "1MHMCAPP_A730D41_Metrics.htm".
+   Added file element "1MHMCAPP_A730D41_nvm_content.txt".
+   Added file element "1MYUCAPP_B200D11.api".
+   Added file element "1MYUCAPP_B200D11.t55".
+   Added file element "A2Lerr.txt".
+   Added file element "delivery.zip".
+   Added file element "int2ulp.log".
+   Added file element "int2ulp.rsp".
+   Added file element "int2ulp_esm.log".
+   Added file element "int2ulp_esm.rsp".
+   Added file element "t55error.txt".
+   Added file element "1MYUCAPP_B200D21.t55".
+   Uncataloged file element "1MYUCAPP_B200D11.t55".
+   Added file element "1MYUCAPP_B200D21.api".
+   Uncataloged file element "1MYUCAPP_B200D11.api"."
+02-Nov.10:09   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\src\pack_id.c" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:12   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\src\Arbitration.t55" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:13   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\src\calib.h" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:11   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin\A2Lerr.txt" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:12   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin\t55error.txt" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:11   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin\1MYUCAPP_B200D21.api" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:11   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin\1MYUCAPP_B200D21.t55" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:11   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\target_bin\delivery.zip" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:26   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_hmc_code\Software\_Software\src\calib_original.h" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:16   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_soft_vob\Software\S_S\s_s_fault_manager\src\F_M_Rbm_Structure.c" from \main\sb7033\1myucapp_b\0 (reserved)
+02-Nov.10:20   bjq5dl     checkout version "X:\1MYUCAPP_B200D21\blois_soft_vob\Software\S_S\s_s_fault_manager\src\F_M_Rbm_Structure.h" from \main\sb7033\1myucapp_b\0 (reserved)

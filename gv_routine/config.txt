@@ -1,0 +1,5 @@
+GV Number:  %gv_n%
+BASE LABEL: %BASE_APP_LABEL%
+view name:  %tcg_view_name%
+gv_br:      %gv_branche%
+gv_lb:      %gv_label%
